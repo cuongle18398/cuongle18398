@@ -1,0 +1,47 @@
+2023-03-24 09:47:34,545 - __main__ - INFO - Bot started
+2023-03-24 09:50:02,772 - __main__ - INFO - Bot started
+2023-03-24 11:06:39,851 - __main__ - INFO - Bot started
+2023-03-24 11:11:17,739 - __main__ - INFO - Bot started
+2023-03-24 11:17:11,186 - __main__ - INFO - Bot started
+2023-03-24 11:19:01,331 - __main__ - INFO - Bot started
+2023-03-24 11:21:45,475 - __main__ - INFO - Bot started
+2023-03-24 11:21:50,353 - __main__ - ERROR - Error in button function: 'CallbackQuery' object has no attribute 'date'
+2023-03-24 11:22:50,850 - __main__ - INFO - Bot started
+2023-03-24 11:22:55,757 - __main__ - ERROR - Error in button function: unsupported operand type(s) for *: 'datetime.datetime' and 'int'
+2023-03-24 11:23:41,975 - __main__ - INFO - Bot started
+2023-03-24 11:23:46,926 - __main__ - ERROR - Error in button function: Object of type Timestamp is not JSON serializable
+2023-03-24 11:34:58,089 - __main__ - INFO - Bot started
+2023-03-24 11:35:03,882 - __main__ - ERROR - Error in button function: cannot set a row with mismatched columns
+2023-03-24 11:36:20,397 - __main__ - INFO - Bot started
+2023-03-24 11:36:48,663 - __main__ - INFO - Bot started
+2023-03-24 11:37:43,658 - __main__ - INFO - Bot started
+2023-03-24 11:39:50,209 - __main__ - INFO - Bot started
+2023-03-28 10:47:27,190 - __main__ - INFO - Bot started
+2023-03-28 10:47:32,464 - __main__ - WARNING - Update "None" caused error "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+2023-04-03 09:48:02,302 - __main__ - INFO - Bot started
+2023-04-03 14:21:33,165 - __main__ - INFO - Bot started
+2023-04-03 14:29:21,769 - __main__ - INFO - Bot started
+2023-04-03 17:58:04,455 - __main__ - INFO - Bot started
+2023-04-03 18:00:25,380 - __main__ - INFO - Bot started
+2023-04-03 18:00:46,395 - __main__ - INFO - Bot started
+2023-04-11 13:36:48,434 - __main__ - INFO - Bot started
+2023-06-13 18:11:59,290 - __main__ - INFO - Bot started
+2023-06-13 18:12:33,075 - __main__ - ERROR - Error in chat function: (pyodbc.OperationalError) ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-06-13 18:13:05,029 - __main__ - ERROR - Error in chat function: (pyodbc.OperationalError) ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-06-13 18:13:37,123 - __main__ - ERROR - Error in chat function: (pyodbc.OperationalError) ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-06-13 18:14:25,840 - __main__ - ERROR - Error in chat function: (pyodbc.OperationalError) ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-06-13 18:15:26,045 - __main__ - ERROR - Error in chat function: (pyodbc.OperationalError) ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-06-13 18:16:00,123 - __main__ - ERROR - Error in button function: 5206820954
+2023-06-13 18:18:16,448 - __main__ - INFO - Bot started
+2023-06-13 18:18:52,698 - __main__ - ERROR - Error in chat function: (pyodbc.OperationalError) ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2023-06-13 18:22:26,982 - __main__ - INFO - Bot started
+2023-06-13 18:25:04,954 - __main__ - INFO - Bot started
+2023-10-11 15:12:45,625 - __main__ - INFO - Bot started
+2023-10-11 15:12:51,074 - __main__ - WARNING - Update "None" caused error "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+2023-10-11 15:12:57,049 - __main__ - WARNING - Update "None" caused error "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"

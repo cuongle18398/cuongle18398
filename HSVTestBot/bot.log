@@ -1,0 +1,51 @@
+2023-10-16 16:26:01,591 - __main__ - INFO - Bot started
+2023-10-16 16:31:23,909 - __main__ - INFO - Bot started
+2023-10-16 16:31:27,021 - __main__ - ERROR - Error in voucher function: cannot access local variable 'sql_query' where it is not associated with a value
+2023-10-16 16:32:36,622 - __main__ - INFO - Bot started
+2023-10-16 16:54:28,489 - __main__ - INFO - Bot started
+2023-10-16 16:57:25,785 - __main__ - INFO - Bot started
+2023-10-16 16:58:39,792 - __main__ - INFO - Bot started
+2023-10-16 17:01:59,929 - __main__ - INFO - Bot started
+2023-10-16 17:02:09,224 - __main__ - INFO - Bot started
+2023-10-16 17:03:39,731 - __main__ - INFO - Bot started
+2023-10-16 17:05:13,684 - __main__ - INFO - Bot started
+2023-10-16 17:07:39,312 - __main__ - INFO - Bot started
+2023-10-16 17:09:20,909 - __main__ - INFO - Bot started
+2023-10-16 17:10:23,997 - __main__ - INFO - Bot started
+2023-10-16 17:12:29,846 - __main__ - INFO - Bot started
+2023-10-16 17:12:49,866 - __main__ - ERROR - Error in voucher function: tuple indices must be integers or slices, not str
+2023-10-16 17:13:22,728 - __main__ - INFO - Bot started
+2023-10-16 17:13:30,545 - __main__ - ERROR - Error in voucher function: tuple index out of range
+2023-10-16 17:13:58,649 - __main__ - INFO - Bot started
+2023-10-16 17:14:49,132 - __main__ - INFO - Bot started
+2023-10-16 17:14:51,958 - __main__ - ERROR - Error in voucher function: tuple index out of range
+2023-10-16 17:15:02,818 - __main__ - INFO - Bot started
+2023-10-16 17:16:42,955 - __main__ - INFO - Bot started
+2023-10-16 17:17:31,360 - __main__ - INFO - Bot started
+2023-10-16 17:17:37,036 - __main__ - INFO - Bot started
+2023-10-16 17:17:44,994 - __main__ - INFO - Bot started
+2023-10-16 17:17:48,876 - __main__ - ERROR - Error in voucher function: tuple index out of range
+2023-10-16 17:18:21,548 - __main__ - INFO - Bot started
+2023-10-16 17:18:25,875 - __main__ - ERROR - Error in voucher function: tuple index out of range
+2023-10-16 17:18:35,080 - __main__ - INFO - Bot started
+2023-10-16 17:18:37,650 - __main__ - ERROR - Error in voucher function: tuple index out of range
+2023-10-16 17:18:50,116 - __main__ - INFO - Bot started
+2023-10-16 17:18:52,540 - __main__ - ERROR - Error in voucher function: tuple index out of range
+2023-10-16 17:19:09,886 - __main__ - INFO - Bot started
+2023-10-16 17:19:41,567 - __main__ - INFO - Bot started
+2023-10-16 17:20:11,200 - __main__ - INFO - Bot started
+2023-10-16 17:20:22,158 - __main__ - INFO - Bot started
+2023-10-16 17:21:06,950 - __main__ - INFO - Bot started
+2023-10-17 14:18:34,587 - __main__ - INFO - Bot started
+2023-10-17 14:20:08,622 - __main__ - ERROR - Error in voucher function: 'NoneType' object has no attribute 'chat_id'
+2023-10-17 14:31:27,206 - __main__ - INFO - Bot started
+2023-10-17 14:39:24,683 - __main__ - INFO - Bot started
+2023-10-17 14:39:38,776 - __main__ - INFO - Bot started
+2023-10-17 16:10:22,827 - __main__ - INFO - Bot started
+2023-10-17 16:22:34,776 - __main__ - INFO - Bot started
+2023-10-17 16:22:44,432 - __main__ - ERROR - Error in offer function: ('42000', "[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'BPRO23001401'. (102) (SQLExecDirectW)")
+2023-10-17 16:23:07,630 - __main__ - INFO - Bot started
+2023-10-17 16:23:21,804 - __main__ - INFO - Bot started
+2023-10-17 16:23:25,031 - __main__ - ERROR - Error in offer function: ('42000', "[42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Incorrect syntax near 'BPRO23001401'. (102) (SQLExecDirectW)")
+2023-10-17 16:23:54,074 - __main__ - INFO - Bot started
+2023-10-17 16:24:22,946 - __main__ - INFO - Bot started

@@ -1,0 +1,3 @@
+cd C:\Users\sys_hsv_cuong\Downloads\nssm-2.24\nssm-2.24\win64 
+
+nssm install [service name] [path to executable]

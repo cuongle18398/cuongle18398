@@ -1,0 +1,9 @@
+
+cd C:\HSV.Services\Leafio
+
+rd /s /q dist
+rd /s /q build
+
+
+pyinstaller --onefile main.py
+
